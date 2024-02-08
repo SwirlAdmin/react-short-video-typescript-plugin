@@ -1,0 +1,1 @@
+# react-short-video-typescript-plugin
